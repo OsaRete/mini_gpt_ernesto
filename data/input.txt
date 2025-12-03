@@ -1,0 +1,99 @@
+Ernesto está aprendiendo a crear su propio modelo de lenguaje en Python.
+Este proyecto es un mini GPT casero, entrenado con texto simple.
+El modelo intenta aprender patrones de caracteres y luego generar frases nuevas.
+Aunque es pequeño, este modelo ayuda a entender las ideas básicas detrás de sistemas grandes como GPT.
+Cuanto más texto agreguemos aquí, mejor podrá aprender a imitar el estilo.
+Podemos escribir historias, explicaciones, diálogos o cualquier cosa que queramos que el modelo intente imitar.
+Este archivo es solamente texto plano, sin ningún formato especial.
+
+How and when did the first money appear? Do we think of it as a way to measure value? Is it a reliable store of value? Who actually creates the money we use? Is it a commodity to be traded? And how does this money actually relate to our status, to the real value of things we use in our lives, to the effort we make to get them, to the real economy of human settlements?
+
+“…money is not really a thing at all but a social technology.”
+Once you start thinking about it, these are remarkably slippery questions, questions which have fooled many throughout millennia. Mostly because the answer seems so obvious. Is it not the coin in your pocket, the dollar bill in its clip, the credit card in your wallet, a mobile payment notification on your smartphone, or a cryptocurrency transaction on the blockchain? Money is all these, and none of them, for it is primarily a way of ordering our lives. But this in a particular, arbitrary way: an attempt to make the often indeterminate qualities of our experience fit neatly into quantities; quantities that can be counted and compared to standard units of account, where everything is valued against a sum of money.
+
+[Money] is the operating system on which we run our economies.
+As Felix Martin wrote in Money: The Unauthorized Biography, “The problem is that money is not really a thing at all but a social technology: a set of ideas and practices which organize what we produce and consume, and the way we live together. When it comes to money itself—rather than the tokens that represent it, the account books where people record it, or the buildings such as banks in which people administer it—there is nothing physical to look at…But currency is not itself money…Coins and currency, in other words, are useful tokens to record the underlying system of credit accounts and to implement the underlying process of clearing [these accounts].”
+
+Unfortunately, when we think of money (a noun), we automatically think of coins, of valuable metals, not of an institution by which a process of trust is administered (a verb). We should not think of what money is, but of what money does. For the crucial fact about its nature is that money is a technology, or procedure, devised to manage trust, trust that a creditor will be repaid. One could say it is the operating system on which we run our economies. For to trust is to have a belief in someone, to credit him, and if s|he is obliged to you, s|he is in your debt (hence, credit and debt)—a fact clearly asserted by the Knights of Malta, when in 1565 they stamped this motto on their coins: Non Aes, sed Fides—Not the Metal, but Trust.
+
+But is it always safe to trust those who issue money? They can be defeated and their government can disappear, they can cheat and clip the edges of the coins so that they become lighter and worth less, they can withdraw the currency or let it devalue through inflation. The fact that they are not always trustworthy is one reason why the precious metal in the coins was so often assumed to be the actual thing of value, mistaken for the insubstantial process which the idea of money represents.
+
+The idea of money is one of the most important inventions of settled peoples.
+The coins were never the money. They only stand in for the money. They were always tokens. Tokens of trustworthiness, that a debt will be repaid. And tokens are only tokens, however rare and valuable the metal they contain.
+
+Despite all its ambiguous attributes, its dependence on confidence and trust, and the ease with which it can be used to cheat, the idea of money is one of the most important inventions of settled peoples. For it is one of the key technologies that allowed much larger groups to thrive together than was possible before. But like all technologies, it is a two-edged sword which can be used to steal as well as pay.
+
+The Rai of Yap—a Very Odd Kind of “Money”
+Yap stone money
+A large (approximately 8 feet in height) example of Yapese stone money (Rai) in the village of Gachpar. Photo by Eric Guinther.
+When Westerners first came upon the remote island of Yap (Federated States of Micronesia) in the 19th century, far from anywhere in the Pacific, they were surprised to find that the islanders used a bizarre currency. It consisted of large circular discs of limestone with a hole in the middle. These disks, called Rai, were between 1 and 12 feet in diameter. They were quarried from an island called Palau, some 280 miles away, and carried from there by outrigger canoes, to be propped up around the island, and part-owned by one person after another, representing value. Some were even shipwrecked at sea, but remained as part of the currency, for everyone knew their quality, history, position, value and current owner.
+
+These stone disks could in no way be carried about and used as coins, but they were currency, for they were assigned in payment for specific social exchanges: marriages, inheritances, political deals, even pigs. More mundane items, like food and fibers, could be exchanged for shell money, or through a customary obligation in which it was obvious who owed how much to whom, and repayment was expected to occur in kind, when the time came.
+
+If one looks up the Rai, it is simply called money. In one sense this is true. But it is also profoundly misleading, for a Rai is not a currency which can buy you anything and everything, it is only a marker or token recording the value of a changed relationship which has been entered into by two parties, in certain circumstances—a kind of contract.
+
+It indicates the existence of a particular social linkage, in that particular society. It is one of the means whereby social relations are ordered, whether they are relations involving power, family connections, transmission of status goods, or family obligation. In Yap, the monetary system relies on an oral history of ownership. Each transaction is recorded in this history, and no physical movement of the stone is needed; no physical possession, as with metal coins.
+
+Reciprocity and Obligation in Non-commercial Cultures
+Indeed, for most of human existence as hunter-gatherers, interchange was governed by social reciprocity; obligation to be helpful, fair and just according to tradition. To be fair to other members of the family, of the village, of the tribe. To participate in the essential sharing of effort and goods which maintain the community. To behave in accordance with the rules of rank and status. The kind of sharing which occurs in families, where repayment is not expected.
+
+There was no universal, abstract, measure of value; no actual money. For there was no commerce as we know it, no established market in which goods could be traded. It was social obligation and status which held societies together. In these small societies it was easy and natural to keep track of who was pulling his weight and who was not. Daily transfer of necessities was done by an informal system of reciprocity, in which a notional unit of exchange was never needed.
+
+ornamental shield 
+Example of an ornamental copper used at a potlatch.
+In more complex societies, reciprocity was formalized through the giving of gifts. Serial exchange of gifts established alliances, created obligations and denoted solidarity. In certain societies giving became an almost aggressive act, as in the competitive distribution or utter destruction of wealth by high-status individuals asserting their hierarchical position in the potlatch ceremonies of the indigenous people of North West Canada; ceremonies in which the host challenged a guest chieftain to exceed him in his ability or “power” to give away or to destroy goods, valuable items, like blankets or ornamental copper shields (worth the same as a slave). British colonizers considered such practices primitively wasteful, and contrary to the “civilized values” of accumulation, and tried to suppress them. But such profligacy is essential to the maintenance of the very structure of that society. Something considered more important than the hoarding of mere goods, or the colonizers’ money.
+
+To modern Westerners, the customs of other peoples often look bizarre when compared to our commercial practices. Commercial practices that give us access to status goods like fancy clothes, or necessities like bread, and for which we pay with money.
+
+raffia cloth money
+Raffia cloth from Angola ca 1866. Cloth mats like this were used to make payments by many of the peoples of Angola and the Democratic Republic of Congo.
+For instance, the Lele people of central Africa, in what was the Belgian Congo, with whom the British anthropologist Mary Douglas lived in the 1950s, did have a sort of currency, a piece of raffia cloth; cloth which a man could weave in about three hours.
+
+But these cloths were not used as a currency to buy daily goods. Instead this “cloth money” was restricted to a particular variety of non-commercial “payments” which were required in Lele society, and for which “cloth money” was needed. Their function was to maintain social relationships within the Lele. Cloths were used as entrance fees to religious cult groups, fees to ritual healers, for marriage dues, as a reward to a Lele wife for giving birth, as fines for adultery, as compensation for fighting and blood debts, and as tribute to chiefs.
+
+The Lele valued raffia cloth as highly as Europeans valued gold. But because the structure and values of Lele society were very different, payment in cloth was made in very different circumstances. The motives for payment were social, not commercial.
+
+This system meant that older men owned more cloths than the younger ones. They were richer and had more power; power to control the younger men, who had to borrow from them in order to join the required cult groups, or to marry. However, as contact with Westerners increased, cloths were traded for Belgian money, and an exchange rate between them established. A young man could work for the foreigners and, with his pay in franks, could buy cloths to bypass his elders and, for instance, use the cloths to join a cult group. So the traditional structure of social control across the generations was progressively weakened and the society disrupted by this contact with an alien system of money.
+
+Societies with extremes of riches were linked with power and conquest, with tribute, plunder and booty. Rule was always linked with access to riches, but not to trade, and seldom have traders been granted the status that businessmen have now.
+
+shell money
+This shell money, called diwara, is from the Duke of York Islands in East New Britain Province, Papua New Guinea. It features a series of Nassarius shells, threaded on to pieces of cane. Queensland Museum.
+Where there was trade, mutually agreed values were used, equivalent to a kind of monetary standard. This money could be represented by a certain weight of silver, by a rare shell, or even by an iron meat-skewer, an obol, as in pre-classical Greece. Always an intermediary substance was used which could be valued as a standard in relation to the commodities being traded. A cowrie shell could be worth two yams, or one sea cucumber. But barter was always rare and only used in extreme situations. No modern archeologist or anthropologist has ever found a society which regularly made its trades through barter.
+
+Proto-accounting: Correspondence Counting
+Clay tokens from Iran
+Small baked clay tokens used for keeping records by correspondence counting.
+In Mesopotamia, archeologists found quantities of curious little clay objects: cubes, pyramids, cylinders, cones, some of them 8,000 years old. At first these seemed like gaming pieces for something like chess. But no gaming boards were found. Finally, in the 1970s, the French archeologist Denise Schmandt-Besserat realized that each shape actually represented a different commodity in daily life: a sheep, a loaf of bread, a jar of honey.
+
+Such counters were adequate to record small transactions. A few items at a time could easily be kept as a record of a transaction; clay counters used for primitive accounting; for correspondence counting, as it is called. Correspondence counting is easy: you don’t need to know how to count, you just need to look at two quantities and verify that they are the same. These little clay objects were tokens of proto-money.
+
+The Challenge for Centralized States
+By 5,000 years ago (3000 BCE) centralized states were established in the Fertile Crescent, states run on bureaucratic lines, with hierarchically controlled command economies, where goods were rationed. Military dictatorships of a kind. Their size and complexity posed quite new and difficult problems of organization. For an urban economy needs planning and taxation. It needs to feed its troops, and there is trading too. These states were centered in cities, such as Uruk, in Mesopotamia, modern day Iraq, on the banks of the Tigris, with a population of over 50,000.
+
+Map of the Urukean expansion
+Map of the Middle East during the last centuries of the 4th millennium BCE: archaeological sites of the “Urukean expansion.”
+Here the specialization of civic and technical roles for different people first occurred. There were farmers, and craftsmen, and soldiers, all organized under a bureaucracy of priests, ruled by a priestly monarch. Each had a part to play.
+
+The way these states were organized involved the collection and re-allocation of all goods to and from central storehouses. These were managed by the ruler’s priestly bureaucrats, to whom the farmers brought their produce from the fields around the city. This produce was then consumed by the rulers, by their non-productive soldiers, by the priestly administrators, by the productive artisans who made the tools, the arms and ornaments, by the traders and by the farmers themselves. This system served all needs, even in time of famine.
+
+Imagine the world’s first accountants, sitting at the door of the temple-storehouse, using the little tokens to count as the stores arrive and leave; so much grain, oil, dried fish. This would become a very laborious business. So how to keep track of all this coming and going?
+
+The Invention of Accounting, Writing and Numeracy
+The answer was three momentous inventions: accounting, writing and numeracy.
+
+(1) Accounting, which could manage tokens representing large quantities and divide them into portions, and relate these to use, over time.
+
+(2) Writing, which made a permanent record of the accounting.
+
+Clay envelope with tokens
+Globular envelope with a cluster of accounting tokens. Clay, Uruk period (4000 BCE–3100 BCE). Louvre Museum.
+(3) Numeracy, which created a new concept—number—a concept that could represent quantity without having to count actual tokens.
+
+Accounting began when a number of clay tokens were first inserted into a clay envelope. The envelope was sealed and tally marks were made on the outside to denote the kind and the number of tokens inside; five sheep, ten baskets of grain, seven jars of honey.
+
+The marks were used to record the back-and-forth of the tokens, which themselves were recording the back-and-forth of the sheep, the grain, and the jars of honey. But something revolutionary had happened. The abstract marks on the envelope-tablets matched the tokens inside which were no longer counted, but were read off from the surface of the envelope. It may be that the first such envelope-tablets showed impressions of the tokens themselves, pressing the hard clay tokens into the soft clay tablet.
+
+Clay tablet with marks
+Clay accounting tablet from Uruk.  Impressions represent numerals and commodities. Pergamon Museum in Berlin.
+Soon the ancient accountants realized it would be simpler to make the marks not with the clumsy tokens, but with a reed pen; to supersede three-dimensional objects with two-dimensional symbols. Thus cuneiform writing was born, composed of lines, of triangles, circles and other marks. A stylized picture, representing an impression of a token, representing a commodity.
